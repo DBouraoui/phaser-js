@@ -26,7 +26,7 @@ Le thème est centré sur la **recherche d’alternance** : le joueur incarne un
 ### 1️⃣ Cloner le projet
 
 ```bash
-git clone https://github.com/monusername/phaserjs-game.git
+git clone https://github.com/DBouraoui/phaser-js.git
 cd phaserjs-game
 ```
 
